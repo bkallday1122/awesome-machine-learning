@@ -1211,7 +1211,7 @@ be
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [thinking bayes](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.
 * [Image-to-Image Translation with Conditional Adversarial Networks](https://github.com/williamFalcon/pix2pix-keras) - Implementation of image to image (pix2pix) translation from the paper by [isola et al](https://arxiv.org/pdf/1611.07004.pdf). [DEEP LEARNING]
-* [Restricted Boltzmann Machines](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. [DEEP LEARNING]
+* [Restricted Boltzmann Machines](https://github.com/echen/restricted-boltzmann-machines) - Restricted Boltzmann Machines in Python. [DEEP LEARNING]
 * [Bolt](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox. **[Deprecated]**
 * [CoverTree](https://github.com/patvarilly/CoverTree) - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree **[Deprecated]**
 * [nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
