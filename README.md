@@ -886,7 +886,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="matlab-natural-language-processing"></a>
 #### Natural Language Processing
 
-* [NLP](https://amplab.cs.berkeley.edu/an-nlp-library-for-matlab/) - A NLP library for Matlab.
+* [NLP](https://amplab.cs.berkeley.edu/an-nlp-library-for-matlab/) - An NLP library for Matlab.
 
 <a name="matlab-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
